@@ -1,0 +1,12 @@
+majenko-sdxl (1.0.1) uecide; urgency=low
+
+  * Fixed install location
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 17 Dec 2018 18:44:23 +0000
+
+majenko-sdxl (1.0.0) uecide; urgency=low
+
+  * Initial import
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 17 Dec 2018 18:43:42 +0000
+
