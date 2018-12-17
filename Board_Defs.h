@@ -54,7 +54,9 @@
 ** refer to periperhals on the board generically.
 */
 
-#define	_BOARD_NAME_	"FubarinoSD"
+#define	_BOARD_NAME_	"SDXL"
+
+#define _USB
 
 /* Define the peripherals available on the board.
 */
